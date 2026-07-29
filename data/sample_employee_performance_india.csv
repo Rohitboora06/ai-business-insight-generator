@@ -1,0 +1,101 @@
+Employee_ID,Employee_Name,Department,City,Annual_Salary_INR,Years_Experience,Performance_Score,Sales_Target_Achieved_Pct,Joined_Date,Appraisal_Grade
+EMP2000,Sneha Reddy,Sales,Chennai,672000.0,9,4.7,113.5,2019-06-01,A
+EMP2001,Deepak Patel,Finance,Remote,862000.0,2,4.9,91.2,2019-06-25,A+
+EMP2002,Isha Singh,Finance,Chennai,792000.0,12,2.2,105.5,2019-07-19,B
+EMP2003,Neha Mehta,Sales,Mumbai,1028000.0,10,2.2,63.3,2019-08-12,B+
+EMP2004,Vikram Singh,Engineering,Gurugram,903000.0,17,3.7,99.5,2019-09-06,B
+EMP2005,Sanjay Mehta,Customer Support,Remote,1372000.0,1,2.7,78.6,2019-09-30,B+
+EMP2006,Vikram Rao,HR,Mumbai,784000.0,5,4.8,113.2,2019-10-24,B+
+EMP2007,Sanjay Singh,Sales,Chennai,782000.0,12,3.8,88.0,2019-11-18,B
+EMP2008,Karan Reddy,Customer Support,Pune,538000.0,17,3.9,113.6,2019-12-12,A+
+EMP2009,Aman Singh,HR,Gurugram,857000.0,13,3.3,84.8,2020-01-05,B+
+EMP2010,Arjun Sharma,Engineering,Mumbai,1055000.0,17,3.7,97.3,2020-01-30,B
+EMP2011,Kavya Singh,Sales,Hyderabad,628000.0,14,2.4,100.3,2020-02-23,B+
+EMP2012,Karan Patel,Sales,Hyderabad,835000.0,17,2.5,61.2,2020-03-18,A
+EMP2013,Arjun Iyer,Marketing,Bengaluru,1066000.0,2,4.1,92.7,2020-04-11,B
+EMP2014,Manoj Kapoor,HR,Noida,812000.0,8,4.4,93.6,2020-05-06,C
+EMP2015,Anjali Iyer,Sales,Remote,694000.0,13,3.9,102.7,2020-05-30,A
+EMP2016,Aman Joshi,Sales,Pune,1142000.0,15,2.1,146.9,2020-06-23,B
+EMP2017,Aarav Gupta,Engineering,Pune,879000.0,5,4.2,90.3,2020-07-18,B
+EMP2018,Manoj Mehta,Sales,Gurugram,969000.0,8,3.3,125.3,2020-08-11,B+
+EMP2019,Vikram Nair,Sales,Gurugram,1201000.0,1,2.9,97.7,2020-09-04,B+
+EMP2020,Rohit Mehta,Sales,Hyderabad,1194000.0,13,2.0,84.8,2020-09-29,C
+EMP2021,Anjali Patel,Engineering,Pune,746000.0,0,2.4,102.3,2020-10-23,B+
+EMP2022,Ananya Kapoor,Customer Support,Remote,692000.0,7,2.2,80.0,2020-11-16,B+
+EMP2023,Isha Sharma,Engineering,Bengaluru,935000.0,4,3.8,85.4,2020-12-10,A
+EMP2024,Vivaan Sharma,Sales,Bengaluru,810000.0,12,3.2,102.4,2021-01-04,B
+EMP2025,Aman Nair,Marketing,Chennai,300000.0,4,3.0,75.5,2021-01-28,B
+EMP2026,Arjun Singh,Engineering,Bengaluru,1233000.0,0,3.6,107.0,2021-02-21,B+
+EMP2027,Anjali Rao,Operations,Noida,856000.0,5,3.3,85.0,2021-03-18,B
+EMP2028,Pooja Patel,Operations,Hyderabad,1071000.0,2,3.4,88.4,2021-04-11,B
+EMP2029,Aarav Singh,Marketing,Pune,498000.0,15,3.3,106.2,2021-05-05,B+
+EMP2030,Anjali Singh,Sales,Gurugram,1236000.0,9,3.8,78.4,2021-05-30,A
+EMP2031,Aarav Iyer,HR,Noida,674000.0,11,3.6,113.2,2021-06-23,A+
+EMP2032,Rohit Patel,Finance,Bengaluru,818000.0,10,5.0,99.0,2021-07-17,A
+EMP2033,Vivaan Patel,Engineering,Pune,430000.0,8,3.1,94.0,2021-08-11,B
+EMP2034,Vivaan Patel,Customer Support,Hyderabad,800000.0,11,3.6,71.5,2021-09-04,A
+EMP2035,Rohit Patel,Finance,Gurugram,781000.0,7,4.5,107.5,2021-09-28,A
+EMP2036,Vivaan Joshi,Engineering,Hyderabad,794000.0,3,2.4,75.7,2021-10-22,B
+EMP2037,Priya Mehta,Finance,Chennai,982000.0,15,2.9,93.5,2021-11-16,C
+EMP2038,Divya Gupta,Sales,Chennai,868000.0,7,3.1,112.7,2021-12-10,B+
+EMP2039,Isha Gupta,Marketing,Mumbai,1143000.0,16,3.3,114.2,2022-01-03,A
+EMP2040,Nikhil Iyer,Marketing,Bengaluru,710000.0,16,3.7,73.0,2022-01-28,B+
+EMP2041,Anjali Patel,Sales,Hyderabad,551000.0,6,5.0,102.7,2022-02-21,A
+EMP2042,Kavya Rao,Finance,Gurugram,844000.0,7,3.5,58.2,2022-03-17,B+
+EMP2043,Sneha Sharma,Sales,Gurugram,1039000.0,13,3.4,105.5,2022-04-11,C
+EMP2044,Arjun Joshi,Customer Support,Gurugram,1223000.0,16,4.5,86.4,2022-05-05,B+
+EMP2045,Pooja Mehta,Sales,Pune,1094000.0,2,4.3,75.2,2022-05-29,A
+EMP2046,Arjun Patel,Engineering,Noida,320000.0,7,3.2,107.9,2022-06-22,B+
+EMP2047,Vikram Reddy,Engineering,Pune,963000.0,4,4.8,83.0,2022-07-17,A
+EMP2048,Lakshmi Joshi,Sales,Remote,1288000.0,2,2.8,160.0,2022-08-10,B+
+EMP2049,Ananya Sharma,Engineering,Bengaluru,869000.0,5,4.8,129.0,2022-09-03,B+
+EMP2050,Rohit Joshi,Engineering,Pune,695000.0,13,4.2,90.4,2022-09-28,A
+EMP2051,Sanjay Rao,Marketing,Mumbai,943000.0,0,4.2,74.6,2022-10-22,B
+EMP2052,Deepak Joshi,Customer Support,Noida,699000.0,3,4.5,76.5,2022-11-15,A+
+EMP2053,Sneha Singh,Sales,Hyderabad,1042000.0,11,3.5,101.5,2022-12-10,B
+EMP2054,Meera Gupta,Sales,Remote,846000.0,15,2.8,95.9,2023-01-03,B
+EMP2055,Neha Patel,Engineering,Bengaluru,1268000.0,15,3.7,120.7,2023-01-27,A
+EMP2056,Arjun Kapoor,Engineering,Pune,1000000.0,4,4.8,148.4,2023-02-20,A
+EMP2057,Deepak Nair,Sales,Bengaluru,633000.0,14,4.3,103.8,2023-03-17,B+
+EMP2058,Lakshmi Nair,Finance,Mumbai,1031000.0,12,2.2,100.1,2023-04-10,B
+EMP2059,Lakshmi Joshi,HR,Pune,1131000.0,10,3.1,81.4,2023-05-04,B+
+EMP2060,Neha Verma,Sales,Chennai,679000.0,0,2.4,89.4,2023-05-29,B
+EMP2061,Rahul Iyer,Engineering,Pune,722000.0,13,4.2,98.9,2023-06-22,B+
+EMP2062,Rohit Reddy,Marketing,Mumbai,300000.0,3,4.0,87.0,2023-07-16,A
+EMP2063,Pooja Mehta,Engineering,Noida,1121000.0,5,4.4,104.8,2023-08-10,B+
+EMP2064,Aarav Nair,Marketing,Gurugram,674000.0,0,2.2,129.8,2023-09-03,B+
+EMP2065,Aditi Nair,Engineering,Hyderabad,300000.0,13,4.0,98.5,2023-09-27,A
+EMP2066,Sanjay Gupta,Finance,Noida,319000.0,17,2.5,92.5,2023-10-22,A
+EMP2067,Rahul Reddy,Engineering,Chennai,783000.0,10,4.0,122.4,2023-11-15,B
+EMP2068,Divya Nair,Customer Support,Remote,1078000.0,7,4.9,99.7,2023-12-09,A+
+EMP2069,Rahul Verma,Engineering,Noida,823000.0,7,2.3,86.1,2024-01-02,B
+EMP2070,Priya Verma,Customer Support,Chennai,992000.0,2,3.7,106.1,2024-01-27,B+
+EMP2071,Deepak Mehta,Sales,Mumbai,520000.0,12,4.9,86.6,2024-02-20,B+
+EMP2072,Sanjay Nair,Customer Support,Hyderabad,448000.0,2,3.2,74.0,2024-03-15,A
+EMP2073,Sneha Iyer,Operations,Hyderabad,1116000.0,7,4.1,99.2,2024-04-09,A
+EMP2074,Pooja Singh,Engineering,Hyderabad,998000.0,5,3.0,80.4,2024-05-03,A
+EMP2075,Lakshmi Reddy,Marketing,Noida,841000.0,7,3.4,113.8,2024-05-27,B+
+EMP2076,Arjun Mehta,Customer Support,Bengaluru,1235000.0,9,4.8,91.1,2024-06-21,B+
+EMP2077,Kavya Nair,Customer Support,Noida,565000.0,3,2.2,96.1,2024-07-15,B+
+EMP2078,Manoj Verma,Customer Support,Pune,724000.0,0,3.4,102.4,2024-08-08,B+
+EMP2079,Lakshmi Iyer,Sales,Noida,1158000.0,9,2.0,92.4,2024-09-01,B
+EMP2080,Kavya Kapoor,Operations,Mumbai,1401000.0,5,3.6,91.8,2024-09-26,A+
+EMP2081,Isha Singh,Operations,Chennai,853000.0,3,4.2,100.9,2024-10-20,B
+EMP2082,Anjali Mehta,Engineering,Gurugram,1354000.0,15,4.4,77.8,2024-11-13,A
+EMP2083,Arjun Reddy,Engineering,Remote,669000.0,8,3.0,86.5,2024-12-08,A
+EMP2084,Neha Iyer,Sales,Gurugram,949000.0,4,4.1,96.5,2025-01-01,B+
+EMP2085,Pooja Nair,Operations,Chennai,798000.0,8,4.5,91.0,2025-01-25,A
+EMP2086,Sneha Joshi,HR,Pune,374000.0,1,4.7,103.1,2025-02-19,B
+EMP2087,Nikhil Sharma,Customer Support,Mumbai,927000.0,2,2.9,74.3,2025-03-15,A
+EMP2088,Priya Patel,Customer Support,Mumbai,1130000.0,14,4.4,90.0,2025-04-08,A
+EMP2089,Meera Sharma,Sales,Mumbai,806000.0,11,3.0,77.7,2025-05-02,C
+EMP2090,Lakshmi Singh,Marketing,Noida,829000.0,13,2.1,98.0,2025-05-27,A
+EMP2091,Vivaan Kapoor,Marketing,Gurugram,1268000.0,8,4.4,96.1,2025-06-20,A
+EMP2092,Suresh Joshi,Engineering,Pune,475000.0,11,2.3,90.8,2025-07-14,A+
+EMP2093,Vikram Mehta,Sales,Noida,401000.0,0,2.8,103.7,2025-08-08,B
+EMP2094,Rahul Sharma,Finance,Chennai,654000.0,10,2.1,78.7,2025-09-01,A
+EMP2095,Aditi Sharma,Engineering,Hyderabad,491000.0,9,3.8,52.4,2025-09-25,B+
+EMP2096,Anjali Nair,Engineering,Mumbai,1254000.0,17,2.4,113.9,2025-10-20,B
+EMP2097,Nikhil Mehta,Sales,Remote,943000.0,1,3.3,83.5,2025-11-13,B
+EMP2098,Pooja Iyer,Customer Support,Chennai,591000.0,11,2.7,89.9,2025-12-07,A
+EMP2099,Kavya Verma,HR,Bengaluru,666000.0,4,4.0,100.9,2026-01-01,B+

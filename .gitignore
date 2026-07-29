@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+.streamlit/secrets.toml
+data/*.csv
+!data/sample_customer_shopping_india.csv
+!data/sample_employee_performance_india.csv
+.DS_Store

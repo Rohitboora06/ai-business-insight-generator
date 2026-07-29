@@ -1,0 +1,101 @@
+Customer_ID,Customer_Name,Age,City,Region,Product_Category,Purchase_Amount_INR,Payment_Mode,Membership_Tier,Purchase_Date,Is_Returning_Customer,Festive_Occasion
+CUST1000,Karan Patel,33,Chennai,South,Clothing & Fashion,640.52,UPI,Gold,2026-01-01,False,Holi
+CUST1001,Vikram Singh,46,Pune,North,Beauty & Personal Care,805.15,UPI,Bronze,2026-01-02,False,Raksha Bandhan
+CUST1002,Karan Mehta,20,Bengaluru,Central,Clothing & Fashion,692.94,Credit Card,Bronze,2026-01-04,True,None
+CUST1003,Nikhil Nair,37,Jaipur,Central,Festive & Gifting,1494.77,Net Banking,None,2026-01-06,True,Holi
+CUST1004,Rahul Singh,53,Chennai,North,Mobiles & Accessories,1718.36,UPI,Gold,2026-01-08,True,None
+CUST1005,Ananya Singh,36,Ahmedabad,Central,Groceries,4361.28,UPI,None,2026-01-10,True,None
+CUST1006,Aditi Iyer,43,Delhi,Central,Beauty & Personal Care,604.05,Debit Card,Silver,2026-01-11,False,Raksha Bandhan
+CUST1007,Vivaan Singh,20,Chennai,Central,Beauty & Personal Care,1908.65,Credit Card,Silver,2026-01-13,True,Holi
+CUST1008,Kavya Iyer,36,Bengaluru,East,Electronics,381.79,UPI,Silver,2026-01-15,True,Raksha Bandhan
+CUST1009,Vivaan Reddy,37,Delhi,West,Mobiles & Accessories,4260.31,Credit Card,None,2026-01-17,False,Holi
+CUST1010,Aarav Mehta,49,Hyderabad,South,Groceries,2960.06,UPI,Bronze,2026-01-19,False,Diwali
+CUST1011,Kavya Kapoor,24,Chennai,East,Mobiles & Accessories,905.1,UPI,Bronze,2026-01-21,True,None
+CUST1012,Aman Mehta,58,Kolkata,Central,Clothing & Fashion,3277.35,Credit Card,Silver,2026-01-22,True,Raksha Bandhan
+CUST1013,Sneha Gupta,50,Delhi,North,Mobiles & Accessories,1218.5,Credit Card,None,2026-01-24,True,None
+CUST1014,Kavya Nair,57,Bengaluru,Central,Groceries,3063.86,Net Banking,Silver,2026-01-26,True,None
+CUST1015,Isha Kapoor,56,Mumbai,West,Electronics,1338.76,UPI,None,2026-01-28,False,None
+CUST1016,Aditi Reddy,35,Jaipur,Central,Mobiles & Accessories,1382.45,Credit Card,Bronze,2026-01-30,True,Holi
+CUST1017,Nikhil Nair,57,Lucknow,North,Electronics,920.43,Debit Card,Silver,2026-01-31,True,Raksha Bandhan
+CUST1018,Sanjay Nair,18,Pune,West,Clothing & Fashion,2085.61,UPI,Bronze,2026-02-02,True,None
+CUST1019,Divya Patel,28,Lucknow,Central,Festive & Gifting,1461.47,Debit Card,Silver,2026-02-04,True,Raksha Bandhan
+CUST1020,Meera Verma,45,Bengaluru,West,Festive & Gifting,1938.34,UPI,Bronze,2026-02-06,False,Holi
+CUST1021,Sanjay Mehta,42,Ahmedabad,South,Groceries,293.64,Net Banking,Bronze,2026-02-08,False,None
+CUST1022,Vivaan Patel,40,Ahmedabad,South,Home & Kitchen,3136.1,UPI,Silver,2026-02-10,True,Diwali
+CUST1023,Vikram Nair,48,Mumbai,Central,Groceries,3662.63,Credit Card,None,2026-02-11,True,None
+CUST1024,Kavya Singh,47,Pune,West,Clothing & Fashion,1456.41,UPI,Silver,2026-02-13,True,None
+CUST1025,Vikram Gupta,59,Kolkata,North,Clothing & Fashion,4794.97,Net Banking,Bronze,2026-02-15,False,None
+CUST1026,Meera Sharma,52,Mumbai,Central,Home & Kitchen,4092.03,Credit Card,None,2026-02-17,False,Diwali
+CUST1027,Ananya Verma,24,Lucknow,South,Beauty & Personal Care,2117.11,Credit Card,Bronze,2026-02-19,True,None
+CUST1028,Neha Patel,33,Mumbai,South,Beauty & Personal Care,3305.2,UPI,Gold,2026-02-20,False,Holi
+CUST1029,Vivaan Iyer,43,Lucknow,Central,Beauty & Personal Care,2752.42,Debit Card,None,2026-02-22,False,Diwali
+CUST1030,Pooja Patel,19,Delhi,West,Electronics,216.9,UPI,Bronze,2026-02-24,True,None
+CUST1031,Divya Mehta,18,Ahmedabad,South,Groceries,1074.0,Cash on Delivery,Silver,2026-02-26,False,Holi
+CUST1032,Kavya Verma,29,Delhi,West,Electronics,2220.18,UPI,Gold,2026-02-28,True,None
+CUST1033,Pooja Patel,22,Jaipur,South,Groceries,3821.81,UPI,None,2026-03-02,True,None
+CUST1034,Meera Singh,54,Pune,South,Groceries,355.56,UPI,Bronze,2026-03-03,True,Holi
+CUST1035,Meera Nair,49,Kolkata,East,Mobiles & Accessories,234.39,Credit Card,Bronze,2026-03-05,True,Raksha Bandhan
+CUST1036,Neha Reddy,26,Lucknow,South,Clothing & Fashion,1276.78,Credit Card,None,2026-03-07,True,Holi
+CUST1037,Sneha Verma,58,Kolkata,North,Electronics,135.09,UPI,None,2026-03-09,False,Holi
+CUST1038,Vikram Reddy,52,Lucknow,Central,Electronics,1243.39,Cash on Delivery,Silver,2026-03-11,True,None
+CUST1039,Arjun Kapoor,36,Bengaluru,Central,Beauty & Personal Care,1748.92,Credit Card,Silver,2026-03-12,False,Raksha Bandhan
+CUST1040,Vikram Sharma,33,Mumbai,West,Home & Kitchen,579.14,Credit Card,Silver,2026-03-14,True,None
+CUST1041,Karan Kapoor,20,Jaipur,South,Electronics,1269.64,Credit Card,Bronze,2026-03-16,True,None
+CUST1042,Aarav Singh,37,Ahmedabad,North,Electronics,2583.08,Credit Card,Gold,2026-03-18,True,Holi
+CUST1043,Rahul Gupta,41,Lucknow,West,Beauty & Personal Care,857.24,Credit Card,Bronze,2026-03-20,True,Raksha Bandhan
+CUST1044,Aman Singh,50,Kolkata,East,Electronics,670.66,UPI,None,2026-03-22,False,Raksha Bandhan
+CUST1045,Aditi Gupta,41,Jaipur,West,Mobiles & Accessories,1225.82,UPI,None,2026-03-23,True,None
+CUST1046,Aarav Reddy,28,Hyderabad,West,Beauty & Personal Care,524.47,Cash on Delivery,Silver,2026-03-25,True,None
+CUST1047,Pooja Nair,25,Hyderabad,South,Electronics,4565.93,Net Banking,None,2026-03-27,True,None
+CUST1048,Sanjay Nair,53,Delhi,East,Electronics,1370.09,UPI,Gold,2026-03-29,False,None
+CUST1049,Sanjay Singh,55,Ahmedabad,West,Festive & Gifting,733.36,UPI,None,2026-03-31,False,Diwali
+CUST1050,Kavya Verma,57,Bengaluru,North,Clothing & Fashion,1566.77,Debit Card,Gold,2026-04-01,False,None
+CUST1051,Aarav Nair,37,Kolkata,North,Clothing & Fashion,1220.65,Credit Card,Silver,2026-04-03,True,None
+CUST1052,Rohit Gupta,52,Mumbai,Central,Mobiles & Accessories,1117.89,UPI,None,2026-04-05,True,None
+CUST1053,Kavya Singh,42,Mumbai,East,Festive & Gifting,857.06,UPI,Gold,2026-04-07,True,None
+CUST1054,Aditi Sharma,52,Kolkata,East,Festive & Gifting,822.67,Debit Card,Silver,2026-04-09,True,Diwali
+CUST1055,Aditi Reddy,42,Pune,Central,Beauty & Personal Care,300.83,Debit Card,Bronze,2026-04-11,True,None
+CUST1056,Vikram Gupta,46,Bengaluru,West,Clothing & Fashion,3301.87,UPI,Bronze,2026-04-12,True,Diwali
+CUST1057,Aarav Reddy,35,Jaipur,East,Electronics,2021.84,UPI,Bronze,2026-04-14,True,Holi
+CUST1058,Meera Nair,63,Lucknow,North,Beauty & Personal Care,1681.32,UPI,Bronze,2026-04-16,True,None
+CUST1059,Sanjay Mehta,35,Pune,North,Groceries,1205.54,Debit Card,Bronze,2026-04-18,False,Diwali
+CUST1060,Pooja Gupta,19,Lucknow,South,Groceries,569.91,UPI,Silver,2026-04-20,True,None
+CUST1061,Karan Sharma,52,Lucknow,East,Mobiles & Accessories,694.8,UPI,Silver,2026-04-21,True,None
+CUST1062,Isha Patel,33,Pune,West,Electronics,337.82,Cash on Delivery,Silver,2026-04-23,False,Diwali
+CUST1063,Rohit Nair,58,Delhi,Central,Groceries,770.83,UPI,None,2026-04-25,True,None
+CUST1064,Karan Patel,53,Hyderabad,Central,Electronics,499.21,Debit Card,Bronze,2026-04-27,False,Diwali
+CUST1065,Arjun Nair,50,Lucknow,West,Groceries,3945.08,UPI,Bronze,2026-04-29,True,Raksha Bandhan
+CUST1066,Nikhil Iyer,21,Pune,South,Electronics,2466.89,UPI,Bronze,2026-05-01,True,None
+CUST1067,Vivaan Mehta,50,Pune,Central,Electronics,1414.85,UPI,None,2026-05-02,False,None
+CUST1068,Arjun Kapoor,31,Chennai,East,Electronics,626.96,Debit Card,Silver,2026-05-04,False,None
+CUST1069,Priya Patel,38,Delhi,South,Home & Kitchen,523.36,Cash on Delivery,Bronze,2026-05-06,False,Holi
+CUST1070,Rahul Mehta,37,Ahmedabad,East,Beauty & Personal Care,1146.26,Cash on Delivery,Bronze,2026-05-08,True,None
+CUST1071,Karan Sharma,25,Chennai,North,Home & Kitchen,2536.87,UPI,Bronze,2026-05-10,True,Holi
+CUST1072,Aarav Kapoor,24,Chennai,South,Festive & Gifting,347.71,Debit Card,Gold,2026-05-11,True,None
+CUST1073,Isha Kapoor,20,Kolkata,Central,Clothing & Fashion,2003.38,UPI,None,2026-05-13,True,None
+CUST1074,Aditi Nair,34,Hyderabad,South,Clothing & Fashion,767.92,UPI,None,2026-05-15,False,Diwali
+CUST1075,Priya Singh,50,Pune,South,Mobiles & Accessories,890.86,Cash on Delivery,Bronze,2026-05-17,True,Diwali
+CUST1076,Sanjay Reddy,29,Hyderabad,South,Clothing & Fashion,1384.08,UPI,Bronze,2026-05-19,False,None
+CUST1077,Aarav Gupta,39,Bengaluru,South,Festive & Gifting,646.09,UPI,None,2026-05-21,True,None
+CUST1078,Pooja Singh,39,Kolkata,East,Electronics,1101.46,UPI,Bronze,2026-05-22,True,Diwali
+CUST1079,Vikram Iyer,63,Ahmedabad,North,Festive & Gifting,598.49,UPI,Silver,2026-05-24,True,Diwali
+CUST1080,Sanjay Patel,47,Hyderabad,West,Electronics,821.95,UPI,Bronze,2026-05-26,False,Diwali
+CUST1081,Aman Sharma,55,Mumbai,South,Mobiles & Accessories,2275.56,Credit Card,Bronze,2026-05-28,False,None
+CUST1082,Isha Nair,55,Lucknow,Central,Groceries,1438.58,Credit Card,Bronze,2026-05-30,False,None
+CUST1083,Vivaan Gupta,62,Bengaluru,South,Festive & Gifting,2269.65,Cash on Delivery,Bronze,2026-05-31,False,Raksha Bandhan
+CUST1084,Aman Reddy,25,Delhi,Central,Electronics,759.39,Cash on Delivery,None,2026-06-02,False,Holi
+CUST1085,Aman Singh,44,Ahmedabad,East,Groceries,2013.73,UPI,None,2026-06-04,False,None
+CUST1086,Aman Sharma,44,Bengaluru,Central,Festive & Gifting,259.84,UPI,Bronze,2026-06-06,True,None
+CUST1087,Vivaan Verma,51,Lucknow,West,Groceries,1383.61,UPI,Gold,2026-06-08,True,None
+CUST1088,Rohit Sharma,38,Kolkata,North,Home & Kitchen,2107.59,Credit Card,None,2026-06-10,True,Raksha Bandhan
+CUST1089,Aarav Gupta,47,Lucknow,Central,Home & Kitchen,248.22,UPI,None,2026-06-11,False,None
+CUST1090,Vivaan Reddy,50,Chennai,Central,Groceries,767.07,Debit Card,Gold,2026-06-13,False,None
+CUST1091,Kavya Mehta,45,Lucknow,North,Home & Kitchen,1382.89,Credit Card,None,2026-06-15,True,None
+CUST1092,Priya Nair,64,Chennai,West,Home & Kitchen,2666.05,Credit Card,None,2026-06-17,False,Raksha Bandhan
+CUST1093,Ananya Nair,50,Kolkata,South,Mobiles & Accessories,821.86,Credit Card,Bronze,2026-06-19,False,None
+CUST1094,Rahul Singh,22,Jaipur,Central,Electronics,1958.78,UPI,Bronze,2026-06-20,True,None
+CUST1095,Aman Iyer,36,Chennai,North,Clothing & Fashion,3445.1,Net Banking,Silver,2026-06-22,True,Holi
+CUST1096,Rohit Patel,21,Delhi,East,Festive & Gifting,2022.54,Cash on Delivery,Gold,2026-06-24,False,Diwali
+CUST1097,Vivaan Iyer,52,Lucknow,North,Mobiles & Accessories,1134.43,UPI,Silver,2026-06-26,True,None
+CUST1098,Rahul Sharma,34,Lucknow,East,Groceries,1754.56,Cash on Delivery,None,2026-06-28,False,None
+CUST1099,Sanjay Iyer,61,Delhi,West,Home & Kitchen,801.76,Credit Card,Gold,2026-06-30,True,Raksha Bandhan
