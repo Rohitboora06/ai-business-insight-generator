@@ -37,24 +37,23 @@ The goal is to make business data easier to explore without writing SQL manually
 - dotenv
 
 ---
-
 # 📸 Application Preview
 
-## Home Page
+## 🏠 Home Page
 
-![Home Page](preview/home-page.png)
-
----
-
-## Dataset Preview
-
-![Upload Preview](preview/upload-preview.png)
+![Home Page](Preview/home-page.png)
 
 ---
 
-## SQL Generation & AI Insights
+## 📂 Upload & Preview Dataset
 
-![Results](preview/results-page.png)
+![Upload Preview](Preview/upload-preview.png)
+
+---
+
+## 🤖 SQL Generation & AI Insights
+
+![Results](Preview/results-page.png)
 
 ---
 
