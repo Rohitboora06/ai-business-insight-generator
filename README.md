@@ -42,19 +42,19 @@ The goal is to make business data easier to explore without writing SQL manually
 
 ## 🏠 Home Page
 
-![Home Page](preview/home-page.png)
+![Home Page](Preview/home-page.png)
 
 ---
 
 ## 📂 Upload & Preview Dataset
 
-![Upload Preview](preview/upload-preview.png)
+![Upload Preview](Preview/upload-preview.png)
 
 ---
 
 ## 🤖 SQL Generation & AI Insights
 
-![Results](preview/results-page.png)
+![Results](Preview/results-page.png)
 
 ---
 
