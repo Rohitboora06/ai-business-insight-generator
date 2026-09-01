@@ -21,7 +21,7 @@ The goal is to make business data easier to explore without writing SQL manually
 - AI converts questions into SQL queries
 - Execute SQL on SQL Server
 - Display query results instantly
-- Generate business insights using Gemini AI
+- Generate business insights using Groq AI
 - Clean and interactive Streamlit interface
 
 ---
@@ -33,27 +33,28 @@ The goal is to make business data easier to explore without writing SQL manually
 - SQL Server
 - PyODBC
 - Pandas
-- Google Gemini API
+- Groq API
 - dotenv
 
 ---
+
 # 📸 Application Preview
 
 ## 🏠 Home Page
 
-![Home Page](Preview/home-page.png)
+![Home Page](preview/home-page.png)
 
 ---
 
 ## 📂 Upload & Preview Dataset
 
-![Upload Preview](Preview/upload-preview.png)
+![Upload Preview](preview/upload-preview.png)
 
 ---
 
 ## 🤖 SQL Generation & AI Insights
 
-![Results](Preview/results-page.png)
+![Results](preview/results-page.png)
 
 ---
 
@@ -63,10 +64,10 @@ The goal is to make business data easier to explore without writing SQL manually
 2. The application previews the dataset.
 3. Load the data into SQL Server.
 4. Ask a business question in plain English.
-5. Gemini AI generates the SQL query.
+5. Groq AI generates the SQL query.
 6. SQL Server executes the query.
 7. The application displays the results.
-8. Gemini AI generates business insights from the output.
+8. Groq AI generates business insights from the output.
 
 ---
 
